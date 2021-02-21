@@ -1,0 +1,12 @@
+body {color:black}
+p,h1 {font-family:Arial, Helvetica, sans-serif}
+h1 {text-align:left;color:pink}
+p,h2,h3,h4,h5,h6 {color:green}
+#itensroxo ul{background: purple;} 
+    li{display: inline-block}
+#pagina{background: yellow}
+#imagem:hover{cursor: pointer;}
+img{height: 30px; width: 30px}
+h1{height: 200%; width: 200%}
+h2:hover{background-color: violet; cursor: pointer;}
+a{text-decoration: none; color: black;}
